@@ -59,7 +59,7 @@ docker-compose up -d
 
 ---
 
-🧩 Conteúdos estudados
+🧩 Conteúdos estudados  
 🏗 DDL
 
 CREATE TABLE
