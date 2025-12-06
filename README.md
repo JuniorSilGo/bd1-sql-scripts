@@ -46,7 +46,7 @@ Este repositório inclui um ambiente Docker pronto para uso. (FALTA ADICIONAR)
 
 ```bash
 docker-compose up -d
-
+```
 ---
 
 ## 📝 Objetivo
@@ -132,6 +132,7 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/<seu-usuario>/<nome-do-repositorio>.git
+```
 
 🧑‍💻Autor
 
