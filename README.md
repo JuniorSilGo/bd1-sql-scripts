@@ -131,7 +131,7 @@ feat(queries): adiciona consultas com join de 3 tabelas
 Clone o repositório:
 
 ```bash
-git clone https://github.com/<seu-usuario>/<nome-do-repositorio>.git
+git clone https://github.com/JuniorSilGo/bd1-sql-scripts.git
 ```
 
 🧑‍💻Autor
